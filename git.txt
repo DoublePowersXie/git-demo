@@ -1,0 +1,10 @@
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+/usr/bin/bash: qw: command not found
